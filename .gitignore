@@ -351,3 +351,10 @@ dmypy.json
 Avionics/
 Flight_Computer/
 TVC/
+!/.idea/
+.idea/.gitignore
+.idea/RocketLab.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/serialmonitor_settings.xml
+.idea/vcs.xml
